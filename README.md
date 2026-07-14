@@ -1,2 +1,2 @@
 # -HackerRank-
-"Here are my attempts at the problems on HackerRank"
+Here are my attempts at the problems on HackerRank
